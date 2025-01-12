@@ -1,7 +1,7 @@
 # Yani
 
 ## `updates`
-- 👋 Hello. Hi. Welcome. I'm Yani
+- 👋 Hello. Hi. Welcome. I'm Edomiyas Wondwossen, but you can call me **Yani**
 - ⚡️ I'm curretnly unpacking the clutter of conventional education by refactoring skills
 - 🖥 Most recent project: NumPose
 - 📫 email: edomiyaswond@gmail.com
