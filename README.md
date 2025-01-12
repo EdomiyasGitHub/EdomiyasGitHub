@@ -1,4 +1,33 @@
 # Yani
+
+## `updates`
+- 👋 Hello. Hi. Welcome. I'm Yani
+- ⚡️ I'm curretnly unpacking the clutter of conventional education by refactoring skills
+- 🖥 Most recent project: NumPose
+- 📫 email: edomiyaswond@gmail.com
+
+***
+
+### `functions`
+<div style="display: flex; align-items: center; column-gap: 10px;">
+    <img alt="javascript" src="https://github.com/EdomiyasGitHub/pictures-for-profile/blob/main/JavaScript%20icon.svg" width="30px">
+    <img alt="sass" src="https://github.com/EdomiyasGitHub/pictures-for-profile/blob/main/SASS%20icon.svg" width="30px">
+    <img alt="css" src="https://github.com/EdomiyasGitHub/pictures-for-profile/blob/main/CSS%20icon.svg" width="30px">
+    <img alt="html" src="https://github.com/EdomiyasGitHub/pictures-for-profile/blob/main/HTML%20icon%202.svg" width="30px">
+</div>
+
+***
+
+### `objects`
+<div style="display: flex; align-items: center; column-gap: 10px;">
+    <img alt="vscode" src="https://github.com/EdomiyasGitHub/pictures-for-profile/blob/main/VSCode%20icon%202.svg" width="30px">
+    <img alt="figma" src="https://github.com/EdomiyasGitHub/pictures-for-profile/blob/main/figma%20icon%202.svg" width="30px">
+    <img alt="notion" src="https://github.com/EdomiyasGitHub/pictures-for-profile/blob/main/Notion%202%20icon.svg" width="30px">
+</div>
+
+***
+
+### `class`
 **Noun**: `yani`; **plural noun**: `yanetawi`
 <br>
 *an unprecedented desire to create through the continuous process of discovery*
@@ -15,13 +44,6 @@ graph LR
     style AMHARIC1 fill:#2c78db,stroke:#000,stroke-width:2px
     style AMHARIC2 fill:#2c78db,stroke:#000,stroke-width:2px
 ```
-## `updates`
-- 👋 Hi. Hello. Welcome. I'm Yani
-- ⚡️ I'm curretnly unpacking the clutter of conventional education by attempting to rebuild my skills
-- 🖥 Most recent project: NumPose
-- 📫 How to reach me: Use my email account edomiyaswond@gmail.com
-
-## `functions`
 
 
 <!---
