@@ -1,4 +1,4 @@
-# Yani
+# Occi
 
 ## `updates`
 - 👋 Hello. Hi. Welcome. I'm Edomiyas Wondwossen, but you can call me **Yani**
@@ -27,6 +27,7 @@
 
 ***
 
+<!--
 ### `class`
 **Noun**: `yani`; **plural noun**: `yanetawi`
 <br>
@@ -44,7 +45,7 @@ graph LR
     style AMHARIC1 fill:#2c78db,stroke:#000,stroke-width:2px
     style AMHARIC2 fill:#2c78db,stroke:#000,stroke-width:2px
 ```
-
+--->
 
 <!---
 EdomiyasGitHub/EdomiyasGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
