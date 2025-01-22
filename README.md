@@ -3,7 +3,7 @@
 ## `updates`
 - 👋 Hello. Hi. Welcome. I'm Edomiyas Wondwossen. You can just call me **Occi**
 - ⚡️ I'm curretnly unpacking the clutter of conventional education by refactoring skills
-- 🖥 Most recent project: NumPose
+- 🖥 Most recent project: [NumPos](https://github.com/EdomiyasGitHub/NumPos-Game)
 - 📫 email: edomiyaswond@gmail.com
 
 ***
